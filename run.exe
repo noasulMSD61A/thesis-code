@@ -1,0 +1,1 @@
+python3 visualizer.py --back BackViewDataSet/Trimmed/Noah_Trim.mp4 --side SideViewsDataSet/Trimmed/NoahSide_Trim.mp4
